@@ -1,8 +1,15 @@
-I am a front-end developer located in Hyderabad, India. I have a serious passion in creating web pages, animations and creating intuitive, dynamic user experiences. I am well-organized, independent employee and keep focusing to learn new skills towards full-stack development. My skills include HTML, CSS, JavaScript, Java and SQL. I am currently working on web development.
-- 👋 Hi, I’m suhail
-- 👀 I’m interested in learning fullstack development
-- 🌱 I’m currently learning HTML,CSS,JS along with JAVA,SQl
-- 💞️ I’m looking to collaborate on  webdevelopment and creating webpages.
+👋 Hi, I’m Suhail
+
+💻 Senior SDET (Automation Engineer) with 4+ years of experience in building and maintaining scalable automation frameworks for web applications and microservices.
+
+🔍 Passionate about test automation, API validation, CI/CD pipelines, and improving software quality through automation.
+
+⚙️ Tech Stack:
+Java • Selenium • Playwright • Rest Assured • TestNG • SQL • JavaScript • CI/CD (Jenkins, GitLab)
+
+🌱 Currently learning and exploring advanced automation strategies, Playwright, and modern testing tools for scalable QA automation.
+
+👯 Open to collaborating on automation frameworks, testing tools, and developer productivity projects.
 - 📫 How to reach me at suhailnew20@gmail.com 
 - My instagram id: __suhail23
 
